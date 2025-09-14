@@ -32,6 +32,14 @@
             Paso buena parte de mi tiempo aprendiendo y desarrollando proyectos que me ayudan a crecer como futura profesional en esta área. 
             Además, cuando no estoy estudiando, disfruto mucho de mis ratos libres maratoneando series en Netflix. 
             Es uno de mis hobbies favoritos, porque me relaja y al mismo tiempo me engancha con historias de todo tipo.</p>
+            <h3>Aspiraciones y metas</h3>
+        <p>
+            Entre mis aspiraciones está mejorar en el ámbito de diseño UI/UX, ya que me interesa mucho crear experiencias digitales más completas y funcionales. 
+            También quiero fortalecer mi nivel de inglés, pues sé que es una herramienta fundamental tanto para mi carrera como para el crecimiento personal. 
+            A corto plazo mi meta principal es graduarme de Ingeniería de Sistemas, y a mediano o largo plazo me gustaría estudiar una especialización que me permita profundizar en un área específica y destacar profesionalmente.
+        </p>
+
+
 
 
         </p>
