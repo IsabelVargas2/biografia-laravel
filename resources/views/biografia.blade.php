@@ -57,9 +57,13 @@
 <!-- Habilidades - inicio -->
 <h3>Habilidades</h3>
 <ul id="habilidades">
-  <li><strong>Programación:</strong> Fundamentos en Python, Java y JavaScript.</li>
+  <li>Fundamentos en Python, Java y JavaScript.</li>
 </ul>
-<!-- /primer commit habilidades -->
+    <!-- /primer commit habilidades -->
+  <ul>
+  <li>Trabajo en equipo y comunicación efectiva.</li>
+  </ul>
+
 
 
         </p>
