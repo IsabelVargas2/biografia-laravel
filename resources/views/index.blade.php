@@ -26,7 +26,13 @@
             Ninguno logró atraparlos, y aunque no entendí la razón de eso que pasó, fue un momento muy divertido. .</p>
             <h3>Adolescencia</h3>
         <p>Breve narración: En mi adolescencia llegó la pandemia, y como pasaba tanto tiempo en casa empecé a jugar Fortnite. 
-            Desde ese momento me gustó tanto que no he parado de jugarlo..</p>
+            Desde ese momento me gustó tanto que no he parado de jugarlo.</p>
+            <h3>Actualmente</h3>
+        <p>Descripción de lo que haces: Actualmente estoy estudiando Ingeniería de Sistemas, una carrera que me ha permitido adentrarme en el mundo de la tecnología, la programación y todo lo relacionado con la informática. 
+            Paso buena parte de mi tiempo aprendiendo y desarrollando proyectos que me ayudan a crecer como futura profesional en esta área. 
+            Además, cuando no estoy estudiando, disfruto mucho de mis ratos libres maratoneando series en Netflix. 
+            Es uno de mis hobbies favoritos, porque me relaja y al mismo tiempo me engancha con historias de todo tipo.</p>
+
 
         </p>
       </div>
