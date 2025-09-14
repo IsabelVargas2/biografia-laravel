@@ -63,6 +63,11 @@
   <ul>
   <li>Trabajo en equipo y comunicación efectiva.</li>
   </ul>
+  <ul>
+  <li>Resolución de problemas y aprendizaje rápido.</li>
+  </ul>
+<!-- Habilidades - fin -->
+
 
 
 
