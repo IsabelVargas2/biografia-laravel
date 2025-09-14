@@ -73,6 +73,11 @@
   <p><strong>Colegio:</strong> Liceo Billingüe Rodolfo R Llinás. Bachiller académico con formación bilingüe (español-inglés) y enfoque en ciencias/matemáticas.</p>
 </div>
 <!-- /college -->
+<div>
+  <p><strong>Universidad:</strong> Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (en curso).</p>
+</div>
+<!-- Academia - fin -->
+
 
 
 
