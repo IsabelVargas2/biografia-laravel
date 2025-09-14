@@ -38,9 +38,22 @@
             También quiero fortalecer mi nivel de inglés, pues sé que es una herramienta fundamental tanto para mi carrera como para el crecimiento personal. 
             A corto plazo mi meta principal es graduarme de Ingeniería de Sistemas, y a mediano o largo plazo me gustaría estudiar una especialización que me permita profundizar en un área específica y destacar profesionalmente.
         </p>
-
-
-
+        <!-- Experiencia Laboral - inicio -->
+        <h3>Experiencia Laboral</h3>
+        <div id="experiencia">
+        <h5>experiencia personal/proyectos</h5>
+        <p>Desarrollé proyectos universitarios pequeños usando Python, Kotlin, Java, etc.</p>
+        </div>
+        <!-- /primer commit experiencia -->
+        <div>
+  <h5>Segunda experiencia</h5>
+  <p>Trabajé desarrollando una página web para un conocido para poder adquirir experiencia.</p>
+</div>
+<div>
+  <h5>Tercera experiencia</h5>
+  <p>Apoyé como voluntariado en la feria de Ulibro por dos años.</p>
+</div>
+<!-- Experiencia Laboral - fin -->
 
         </p>
       </div>
