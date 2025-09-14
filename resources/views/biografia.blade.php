@@ -41,7 +41,7 @@
         <!-- Experiencia Laboral - inicio -->
         <h3>Experiencia Laboral</h3>
         <div id="experiencia">
-        <h5>experiencia personal/proyectos</h5>
+        <h5>Primera experiencia</h5>
         <p>Desarrollé proyectos universitarios pequeños usando Python, Kotlin, Java, etc.</p>
         </div>
         <!-- /primer commit experiencia -->
@@ -67,6 +67,13 @@
   <li>Resolución de problemas y aprendizaje rápido.</li>
   </ul>
 <!-- Habilidades - fin -->
+<!-- Academia - inicio -->
+<h3>Formación académica</h3>
+<div id="academia">
+  <p><strong>Colegio:</strong> Liceo Billingüe Rodolfo R Llinás. Bachiller académico con formación bilingüe (español-inglés) y enfoque en ciencias/matemáticas.</p>
+</div>
+<!-- /college -->
+
 
 
 
