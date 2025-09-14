@@ -54,6 +54,22 @@
   <p>Apoyé como voluntariado en la feria de Ulibro por dos años.</p>
 </div>
 <!-- Experiencia Laboral - fin -->
+<!-- Habilidades - inicio -->
+<h3>Habilidades</h3>
+<ul id="habilidades">
+  <li>Fundamentos en Python, Java y JavaScript.</li>
+</ul>
+    <!-- /primer commit habilidades -->
+  <ul>
+  <li>Trabajo en equipo y comunicación efectiva.</li>
+  </ul>
+  <ul>
+  <li>Resolución de problemas y aprendizaje rápido.</li>
+  </ul>
+<!-- Habilidades - fin -->
+
+
+
 
         </p>
       </div>
