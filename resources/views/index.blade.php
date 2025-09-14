@@ -19,6 +19,12 @@
         Nací en: Bucaramanga y soy de Colombia. <br>
         Padres: Mi papá se llama Julio Vargas y mi mamá Neyla Sanchez. <br>
         Hermanos: No tengo.
+        <br>
+        <h3>Mi niñez</h3>
+        <p>Breve narración de tu niñez: Hace muchos años fui a Panaca, 
+            donde conocí muchos animales. Lo más gracioso fue que participé en una carrera persiguiendo cerdos pequeños junto con otros niños. 
+            Ninguno logró atraparlos, y aunque no entendí la razón de eso que pasó, fue un momento muy divertido. .</p>
+
         </p>
       </div>
     </div>
