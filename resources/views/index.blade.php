@@ -24,6 +24,9 @@
         <p>Breve narración de tu niñez: Hace muchos años fui a Panaca, 
             donde conocí muchos animales. Lo más gracioso fue que participé en una carrera persiguiendo cerdos pequeños junto con otros niños. 
             Ninguno logró atraparlos, y aunque no entendí la razón de eso que pasó, fue un momento muy divertido. .</p>
+            <h3>Adolescencia</h3>
+        <p>Breve narración: En mi adolescencia llegó la pandemia, y como pasaba tanto tiempo en casa empecé a jugar Fortnite. 
+            Desde ese momento me gustó tanto que no he parado de jugarlo..</p>
 
         </p>
       </div>
