@@ -39,12 +39,18 @@
             A corto plazo mi meta principal es graduarme de Ingeniería de Sistemas, y a mediano o largo plazo me gustaría estudiar una especialización que me permita profundizar en un área específica y destacar profesionalmente.
         </p>
         <!-- Experiencia Laboral - inicio -->
-        <h3>experiencia personal/proyectos</h3>
+        <h3>Experiencia Laboral</h3>
         <div id="experiencia">
-        <h5>Primer empleo</h5>
+        <h5>experiencia personal/proyectos</h5>
         <p>Desarrollé proyectos universitarios pequeños usando Python, Kotlin, Java, etc.</p>
         </div>
         <!-- /primer commit experiencia -->
+        <div>
+  <h5>Segunda experiencia</h5>
+  <p>Trabajé desarrollando una página web para un conocido para poder adquirir experiencia.</p>
+</div>
+
+
 
 
 
